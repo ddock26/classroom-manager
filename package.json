@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@firebase/firestore": "^1.0.4",
+    "firebase": "^5.9.1",
     "firebase-app": "0.0.1",
     "firebase-auth": "^0.1.2",
     "firebase-messaging": "^1.0.6",
@@ -20,7 +21,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.4.0",
     "@vue/cli-plugin-eslint": "^3.4.0",
-    "@vue/cli-service": "^3.4.0",
+    "@vue/cli-service": "^3.5.3",
     "@vue/eslint-config-prettier": "^4.0.1",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.8.0",
