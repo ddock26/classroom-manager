@@ -4,7 +4,6 @@ import "vuetify/src/stylus/app.styl";
 
 Vue.use(Vuetify, {
   iconfont: "md",
-  
   // TODO: Update color theme.
   theme: {
     primary: "#3f51b5",
