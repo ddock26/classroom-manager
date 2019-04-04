@@ -13,7 +13,7 @@ export default new Router({
       path: "/",
       name: "dashboard",
       component: () =>
-        import(/* webpackChunkName: "about" */ "./views/Dashboard.vue")
+        import(/* webpackChunkName: "dashboard" */ "./views/Dashboard.vue")
     },
     {
       path: "/login",
